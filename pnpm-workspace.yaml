@@ -2,3 +2,6 @@ allowBuilds:
   esbuild: set this to true or false
 onlyBuiltDependencies:
   - esbuild
+
+overrides:
+  tinypool: ">=2.1.2"
